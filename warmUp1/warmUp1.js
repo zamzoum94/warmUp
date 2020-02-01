@@ -26,7 +26,8 @@ function averageAge(){
 }
 
 function ageInSec(age){
-	var today = 58786560000;
-	var dateOfBirth = 57886617600 + 2419200 + 950400;
+	// I was born in 11/02/1994
+	var today = (60*60*24*7*4 + 60*60*24*2) * 2020 - (2020/4)*(60*60*24);
+	var dateOfBirth = (60*30*24*7*4 + 60*60*24*2) * 1994 - (1994/4)*(60*60*24);
 	return today - dateOfBirth;
 }
