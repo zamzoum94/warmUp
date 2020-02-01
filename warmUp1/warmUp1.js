@@ -27,6 +27,6 @@ function averageAge(){
 
 function ageInSec(age){
 	var today = 58786560000;
-	var dateOfBirth = 57886617600 + 2419200;
+	var dateOfBirth = 57886617600 + 2419200 + 950400;
 	return today - dateOfBirth;
 }
