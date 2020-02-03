@@ -5,6 +5,7 @@
 
 // your code is here
 
+<<<<<<< HEAD
 //1
 function name(firstName, lastName) {
 	return firstName + ' ' + lastName;
@@ -54,3 +55,6 @@ function average(arr) {
 // 
 // }
 //age=26*365*24*60
+=======
+
+>>>>>>> c07720253c870302a2825e47eeb180a082689769
