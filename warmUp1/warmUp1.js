@@ -6,6 +6,7 @@
 // your code is here
 
 
+<<<<<<< HEAD
 function comb(firtName, lastName){
 	return firtName + " " + lastName;
 }
@@ -31,3 +32,5 @@ function ageInSec(age){
 	var dateOfBirth = (60*30*24*7*4 + 60*60*24*2) * 1994 - (1994/4)*(60*60*24);
 	return today - dateOfBirth;
 }
+=======
+>>>>>>> c07720253c870302a2825e47eeb180a082689769
