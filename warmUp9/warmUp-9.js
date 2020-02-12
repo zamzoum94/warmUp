@@ -18,7 +18,7 @@ function returnMiddle(array){
 function mult(array){
 	for(var i = 0; i < array.length; i++){
 		if(typeof array[i] === "number"){
-			array[i] *= 2;
+			if(i%2 === 0) array[i] *= 2;
 		}
 	}
 	return array;
