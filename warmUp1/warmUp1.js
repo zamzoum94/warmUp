@@ -5,15 +5,14 @@
 
 // your code is here
 
-<<<<<<< HEAD
+
 //1
 function name(firstName, lastName) {
 	return firstName + ' ' + lastName;
 }
 //'Siwar'+' Hkimi';
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 function comb(firtName, lastName){
 	return firtName + " " + lastName;
 }
@@ -39,8 +38,7 @@ function ageInSec(age){
 	var dateOfBirth = (60*30*24*7*4 + 60*60*24*2) * 1994 - (1994/4)*(60*60*24);
 	return today - dateOfBirth;
 }
-=======
-=======
+
 //2
 function multipleOrNot(x, y) {
 	if (x % y === 0) {
@@ -84,7 +82,4 @@ function average(arr) {
 // 
 // }
 //age=26*365*24*60
-=======
 
->>>>>>> 2b098376bbe5f40b97b1dad225ca4eb6a867d63d
->>>>>>> c07720253c870302a2825e47eeb180a082689769
