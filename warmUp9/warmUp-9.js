@@ -22,4 +22,4 @@ function mult(array){
 		}
 	}
 	return array;
-}
+}	
