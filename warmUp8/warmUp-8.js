@@ -1,4 +1,5 @@
 // 1- Using recursion Write a JavaScript program to find the greatest common divisor (gcd) of two positive numbers.
+<<<<<<< HEAD
 function GCD(a, b){
 	if(a === b){
 		return a;
@@ -23,3 +24,7 @@ function sum(a, b){
 		return 1 + sum(a, b-1);
 	}
 }
+=======
+// 2-Write a function called sum that accepts two numbers as parameters, and sum them together but without suming them togther directly
+//you can only add one at each summetion, you'll need to use recursion in this.
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6

@@ -2,6 +2,7 @@
 //followed by a number starting from zero(solve it using while loop).
 // example:    reverseStr('hello'); "o1l2l3e4h"
 
+<<<<<<< HEAD
 function reverseStr(str){
 	var resp = '', i = str.length;
 	while(i--){
@@ -10,9 +11,12 @@ function reverseStr(str){
 	}
 	return resp.slice(1);
 }
+=======
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6
 
 
 // 2-write a function that takes array of strings and returns an array of the strings that have the same length
+<<<<<<< HEAD
 // example :  ['hi','hello','welcome','hy'] == > ["hi","hy"]
 
 // make arrayOfObject: contain, length as key with with value ids of array stored in an array
@@ -41,3 +45,6 @@ function sameLength(arr){
 	}
 	return resp;
 }
+=======
+// example :  ['hi','hello','welcome','hy'] == > ["hi","hy"]
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6

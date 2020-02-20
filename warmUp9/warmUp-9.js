@@ -3,6 +3,7 @@
 // -name of males in your class
 // -name of your class instructors 
 
+<<<<<<< HEAD
 var females = [];
 var males = [];
 var instructors = [];
@@ -23,3 +24,8 @@ function mult(array){
 	}
 	return array;
 }	
+=======
+// 2-write a function that takes an array as an argument and returns the element that is located in the middle of that array.
+
+// 3-Change all the numbers in the array to be multiplied by two for even indexes.
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6
